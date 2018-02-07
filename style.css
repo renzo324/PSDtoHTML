@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 body{
 	border-top: solid 5px #40aed7; 
 }
@@ -21,6 +21,9 @@ a{
   background-color: #17a2b8;
   border-color: #17a2b8;
 }
+.jumbotron{
+	font-family: 'Cormorant Garamond', serif;
+}
 .jumbotron h1{
 	font-size: 110px;
 	margin: 0 auto;
@@ -36,10 +39,8 @@ a{
 .col-lg img{
 	padding-top: 20px;
 }
-.message{
-	
-}
 #logo{
+	font-family: 'Cormorant Garamond', serif;
 	float: left;
 	margin-top: 25px;
 }
@@ -52,6 +53,7 @@ a{
 	font-size: 9px;
 }
 #menu{
+	font-family: 'Cormorant Garamond', serif;
 	float: right;
 }
 #menu ul{
@@ -74,6 +76,7 @@ a{
     border-radius: 9px;
 }
 #service{
+	font-family: 'Cormorant Garamond', serif;
 	border: solid 1px #e4e4e4;
 	margin: 0 10px 0 10px;
 	text-align: center;
@@ -84,6 +87,7 @@ a{
     filter: invert(100%);
 }
 #team{
+	font-family: 'Cormorant Garamond', serif;
 	border: solid 1px #e4e4e4;
 	margin: 0 10px 0 10px;
 	
@@ -104,6 +108,7 @@ a{
 	text-align: right;
 }
 #sub-footer{
+	font-family: 'Cormorant Garamond', serif;
 	margin-top: 60px;
 	background-color:#303030;
 }
